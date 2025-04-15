@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif; /* 所有網頁內容的預設字形 */
-
+    background-color: #ffffff; /* 背景顏色 */
     line-height: 1.6; /*行高 */   
     margin: 0;  /* Remove default margin */
     display: flex;
